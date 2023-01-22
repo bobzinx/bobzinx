@@ -1,8 +1,8 @@
-### Olá Sou Junior Satiro 
+### I'm Junior Satiro 
 
 
 
- 🔭 Eu trabalho atualmente desenvolvedor full stack
+ 🔭 I currently work full stack developer
 
 
 <div align="center">  
@@ -16,3 +16,7 @@
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=Mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Studying in this moment:
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
